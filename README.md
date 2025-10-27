@@ -40,7 +40,7 @@ Templates for new projects to save time:
 
 ## 📫 Contact
 - GitHub: [ihor4ik](https://github.com/ihor4ik)  
-- Email: your.email@example.com
+- Email: ihormukhaxvi@gmail.com
 
 ---
 
